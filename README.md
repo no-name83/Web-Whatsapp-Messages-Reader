@@ -3,6 +3,7 @@
 With this script, you can retrieve messages from the  Web Whatsapp. You only need to scan the QR code to log in.After scanning the QR code, run the script again. It will start fetching messages then.It saves the messages to a file named wp_messages.txt.
 
 **Installation**
+
 To install the libraries, run the following command:
 
 pip install -r requirements.txt
